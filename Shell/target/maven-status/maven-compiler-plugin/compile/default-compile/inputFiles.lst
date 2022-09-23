@@ -1,0 +1,15 @@
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/dto/RefreshJwtRequest.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/dto/CreateArticleRequest.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/dto/JwtResponse.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/commands/AuthCommand.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/model/Article.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/dto/UpdateArticleRequest.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/config/ConnectedPromptProvider.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/dto/LoginRequest.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/commands/ArticleCommands.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/ShellApplication.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/dto/LogoutRequest.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/config/RestTemplateInterceptor.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/config/RestTemplateConfig.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/dto/SignUpRequest.java
+/home/user/Documents/Shell-ZEN/Shell/src/main/java/com/example/shell/config/Authentication.java
