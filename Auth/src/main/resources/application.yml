@@ -1,0 +1,18 @@
+spring:
+  data:
+    mongodb:
+      database: mongoDB
+      port: 27017
+      host: localhost
+#  JWT CONFIG
+jwt:
+  access:
+    exp: 1
+    secret: accessSecret
+  refresh:
+    exp: 30
+    secret: refreshSecret
+#  SERVER CONFIG
+server:
+  port: 8080
+
