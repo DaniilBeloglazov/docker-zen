@@ -38,7 +38,7 @@ public class RestTemplateInterceptor implements ClientHttpRequestInterceptor {
             reqHeaders.set("accessToken", authentication.getAccessToken());
             reqHeaders.set("refreshToken", authentication.getRefreshToken());
             val newResponse = execution.execute(request, body);
-            if (!newResponse.getStatusCode().is2xxSuccessful()) {
+            if (newResponse.getStatusCode().equals(HttpStatus.FORBIDDEN)) {
                 System.out.println("Need to re-login");
                 authentication.setStatus(false);
             }
